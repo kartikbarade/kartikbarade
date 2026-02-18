@@ -1,102 +1,124 @@
-# 👋 Hi, I'm Kartik Barade
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D250%26section%3Dheader%26text%3DHi%2520there,%2520I%27m%2520Kartik%2520Barade!%26fontSize%3D70%26fontAlign%3D50%26fontAlignY%3D35%26desc%3DFull%2520Stack%2520Developer%2520|%20UI/UX%20Designer%20|%20Data%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling" alt="Kartik Barade Header" />
+</div>
 
-🚀 AIML Student | Machine Learning Enthusiast | Python Developer
+<h3 align="center">🚀 Building Modern Web Experiences & Analyzing Data</h3>
 
-Welcome to my GitHub profile! I am passionate about Artificial Intelligence, Machine Learning, and Data Science. I enjoy building real-world projects that solve practical problems using intelligent systems.
+<div align="center">
+<a href="https://github.com/kartikbarade">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dkartikbarade%26style%3Dflat-square%26color%3Dblueviolet%26label%3DProfile%2BViews" alt="Profile Views" />
+</a>
+</div>
 
----
+👨‍💻 About Me
 
-## 🧠 About Me
+I am a Full Stack Web Developer and UI/UX Designer based in Pune, Maharashtra. I specialize in creating user-friendly, visually appealing, and responsive digital experiences. With a blend of technical skills and creative design thinking, I love turning ideas into interactive websites and applications.
 
-* 🎓 AIML Student
-* 💻 Skilled in Python, Machine Learning & Data Analysis
-* 📊 Interested in Data Visualization & Predictive Modeling
-* 🔬 Exploring AI-powered systems and automation projects
-* 📚 Currently learning advanced ML algorithms and deep learning
+🔭 I’m currently working on Full Stack Web Applications.
 
----
+🌱 I’m currently learning Advanced React & Spring Boot.
 
-## 🛠️ Technical Skills
+🎨 I enjoy designing Intuitive UI/UX for mobile and web apps.
 
-### 👨‍💻 Programming Languages
+👯 I’m looking to collaborate on Open Source Python & AI Projects.
 
-* Python
-* HTML, CSS, JavaScript
+💬 Ask me about Java, Python, React, and Data Visualization.
 
-### 🤖 Machine Learning
+🛠️ Tech Stack
 
-* Logistic Regression
-* Naive Bayes
-* Random Forest
-* Data Preprocessing
-* Model Evaluation
+<div align="center">
 
-### 📊 Data Tools
+Languages
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
+Frontend & Design
 
-### 🔥 Tools & Platforms
+Backend & DB
 
-* Jupyter Notebook
-* Git & GitHub
-* VS Code
-* Google Colab
+Tools
 
----
 
-## 📂 Featured Projects
 
-### 📌 Student Data Analysis Model
 
-Machine Learning project built in Python to analyze student performance data.
 
-* Implemented Naive Bayes & Logistic Regression
-* Compared model accuracy
-* Included data visualization and preprocessing
 
-### 📌 Pass/Fail Prediction System
 
-Predicts whether a student will pass or fail based on academic factors.
 
-* Feature scaling
-* Train-test split
-* Model evaluation metrics
 
-### 📌 Customer Category Prediction
 
-Classification project using Logistic Regression and Random Forest.
 
-* Exploratory Data Analysis
-* Feature Engineering
-* Model Comparison
 
----
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikbarade\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbarade\&layout=compact\&theme=tokyonight)
 
----
 
-## 🌱 Currently Working On
 
-* AI-Powered Study Buddy
-* Automated Library & Resource Management System
-* Improving ML model performance and optimization techniques
 
----
 
-## 📫 Connect With Me
 
-* GitHub: [https://github.com/kartikbarade](https://github.com/kartikbarade)
-* LinkedIn: (Add your LinkedIn profile here)
 
----
 
-⭐ If you like my projects, feel free to explore, fork, and contribute!
+
+
+
+
+
+
+
+
+
+
+</div>
+
+📂 Featured Projects
+
+📊 Student Data Analysis Model
+
+A Machine Learning project developed in Python to analyze student academic data and predict performance outcomes.
+
+Tech Used: Python, Jupyter Notebook, Pandas, Scikit-Learn.
+
+Key Features: Implements and compares two fundamental algorithms to provide accurate predictions.
+
+🌐 GitView - GitHub Repo Fetcher
+
+A simple and responsive web app that fetches GitHub repo details instantly.
+
+Tech Used: HTML, CSS, JavaScript.
+
+Key Features: Fetches live repo data, clean and minimalistic UI.
+
+🚲 Bicycle & Plant Store UI/UX Designs
+
+Modern mobile and web interface designs focused on clean shopping experiences.
+
+Tech Used: Figma, Prototyping, Excalidraw.
+
+Key Features: Intuitive navigation, modern aesthetics, detailed prototyping.
+
+📈 GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkartikbarade%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" height="180" alt="Kartik's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkartikbarade%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D6" height="180" alt="Kartik's Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkartikbarade%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Kartik's Streak" />
+</div>
+
+📫 Connect with Me
+
+<div align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/kartik-barade-699709282/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="mailto:kbs157534@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
+<a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter" />
+</a>
+</div>
