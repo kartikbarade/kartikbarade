@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Hi%20There,%20I'm%20Kartik%20Barade!&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer%20|%20Data%20Enthusiast&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Hi%20There,%20I'm%20Kartik%20Barade!&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer%20 &descAlignY=60&animation=twinkling" />
 </div>
 
 <h3 align="center">🚀 Building Modern Web Experiences & Intelligent Data Solutions</h3>
