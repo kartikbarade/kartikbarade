@@ -111,7 +111,7 @@ Modern eCommerce interface designs focused on smooth user experience.
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kartik-barade-699709282/" target="_blank">
+  <a href="https://www.linkedin.com/in/kartik-barade-51a9102b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kbs157534@gmail.com">
