@@ -96,13 +96,6 @@ Modern eCommerce interface designs focused on smooth user experience.
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbarade&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true"/>
 </div>
 
