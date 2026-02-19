@@ -71,17 +71,6 @@ Machine Learning project built in Python to predict student performance.
 
 ---
 
-### 🌐 GitView – GitHub Repo Fetcher
-A responsive web application that fetches GitHub repository details instantly.
-
-**Tech Used:** HTML, CSS, JavaScript  
-**Highlights:**
-- Real-time API integration
-- Clean & minimal UI
-- Responsive design
-
----
-
 ### 🚲 Bicycle & Plant Store UI/UX Designs
 Modern eCommerce interface designs focused on smooth user experience.
 
