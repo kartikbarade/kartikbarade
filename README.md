@@ -1,110 +1,174 @@
-<!-- HEADER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Hi%20There,%20I'm%20Kartik%20Barade!&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer%20|&descAlignY=60&animation=twinkling" />
-</div></div>
+# 👋 Hi, I'm Kartik Barade
 
-<h3 align="center">🚀 Building Modern Web Experiences & Intelligent Data Solutions</h3>
+### 🤖 AI/ML Engineer | 💻 Software Developer | 🌐 Full Stack Developer
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartikbarade&style=flat-square&color=blueviolet" />
-</div>
+<p align="center">
+  <a href="https://kartikbarade.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-8B5CF6?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/kartik-barade-51a9102b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/kartikbarade">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Web Developer & UI/UX Designer** based in Pune, Maharashtra.
+I am an **AI/ML Engineering student** passionate about building modern digital experiences and intelligent applications.
 
-I build scalable web applications, design intuitive interfaces, and work on data-driven solutions using modern technologies.
+I enjoy combining **software development, artificial intelligence, machine learning, and creative problem solving** to build practical solutions.
 
-- 🔭 Currently building **Full Stack Web Applications**
-- 🌱 Learning **Advanced React & Spring Boot**
-- 🎨 Passionate about **UI/UX Design Systems**
-- 🤝 Open to collaborate on **Open Source Python & AI Projects**
-- 💬 Ask me about **Java, Python, React, Machine Learning, Data Visualization**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 💻 Building **Full Stack Web Applications**
+- ⚛️ Working with **React & modern frontend technologies**
+- ☕ Strengthening my **Java & problem-solving skills**
+- 🧠 Interested in **Data Science, ML & Data Visualization**
+- 🎨 Interested in **UI/UX and modern design systems**
+- 🚀 Currently preparing for **software development opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</div>
+
+- ☕ Java
+- 🐍 Python
+- 🗄️ SQL
+- 🌐 JavaScript
+- ⚡ HTML5
+- 🎨 CSS3
 
 ### 🎨 Frontend & Design
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma" />
-</div>
+
+- ⚛️ React.js
+- 🎨 UI/UX Design
+- 🖌️ Figma
+- 📐 Responsive Web Design
 
 ### ⚙️ Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,firebase,mysql,mongodb" />
-</div>
+
+- 🌱 Spring Boot
+- 🟢 Node.js
+- 🗄️ MySQL
+- 🔥 REST APIs
 
 ### 🧠 Data & ML
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <br/>
-  Pandas • NumPy • Scikit-Learn • Matplotlib • Jupyter
-</div>
+
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-Learn
+- 📊 Matplotlib
+- 📈 Data Visualization
+- 🧠 Machine Learning
 
 ### 🛠️ Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</div>
+
+- 🔧 Git & GitHub
+- 💻 VS Code
+- 📓 Jupyter Notebook
+- 🎨 Figma
+- 🧪 Postman
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Student Data Analysis Model
-Machine Learning project built in Python to predict student performance.
+### 📊 Student Performance Prediction
 
-**Tech Used:** Python, Pandas, Scikit-Learn, Jupyter Notebook  
-**Algorithms:** Naive Bayes & Logistic Regression  
+Machine Learning project designed to analyze and predict student academic performance.
+
+**Tech Used:** Python, Pandas, NumPy, Scikit-Learn, Jupyter Notebook
+
+**Algorithms:**
+- Naive Bayes
+- Logistic Regression
+
 **Highlights:**
-- Data preprocessing & visualization
+- Data preprocessing
+- Exploratory data analysis
+- Data visualization
 - Model comparison
-- Performance evaluation metrics
-- Predictive analytics for academic success
+- Performance evaluation
+- Predictive analytics
 
 ---
 
-### 🚲 Bicycle & Plant Store UI/UX Designs
-Modern eCommerce interface designs focused on smooth user experience.
+### 🎨 Bicycle & Plant Store UI/UX
 
-**Tools Used:** Figma, Prototyping, Excalidraw  
+Modern eCommerce UI/UX designs focused on creating a clean and intuitive shopping experience.
+
+**Tools Used:** Figma, Prototyping, Excalidraw
+
 **Highlights:**
-- Clean product browsing flow
-- Modern typography & layout
-- User-centered design approach
+- User-centered interface
+- Product browsing flow
+- Modern typography
+- Responsive design concepts
+- Clean visual hierarchy
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my skills, projects and experience.
+
+**Built With:** React, CSS, Framer Motion
+
+🔗 **Live Portfolio:**  
+https://kartikbarade.vercel.app
 
 ---
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbarade&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kartik-barade-51a9102b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="https://kartikbarade.vercel.app">
+    🌐 Portfolio
   </a>
-  <a href="mailto:kbs157534@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <br/>
+  <a href="https://github.com/kartikbarade">
+    💻 GitHub
   </a>
-</div>
+  <br/>
+  <a href="https://www.linkedin.com/in/kartik-barade-51a9102b1/">
+    💼 LinkedIn
+  </a>
+  <br/>
+  <a href="mailto:kartikybarade13@gmail.com">
+    📧 Email
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  
-### ⭐ “Design. Build. Analyze. Improve. Repeat.”
+### ⭐ Design. Build. Analyze. Improve. Repeat.
 
-</div>
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
