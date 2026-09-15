@@ -244,7 +244,6 @@ My personal developer portfolio showcasing my skills, projects and experience.
 ### 🔗 Live Project
 
 <a href="https://kartikbarade.vercel.app">
-  <img src="https://img.shields.io/badge/View%20Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -269,9 +268,7 @@ Computer vision project that allows users to control system volume using hand ge
 
 ### 🔗 Repository
 
-<a href="https://github.com/kartikbarade/Hand-Gesture-Volume-Control">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/kartikbarade/Hand-Gesture-Volume-Control"></a>
 
 </td>
 
