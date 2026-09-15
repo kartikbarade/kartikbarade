@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartik Barade
 
-### 🤖 AI/ML Engineer | 💻 Software Developer | 🌐 Full Stack Developer
+### 🤖 AI/ML Student | 💻 Software Developer | 🌐 Full Stack Developer
 
 <p align="center">
   <a href="https://kartikbarade.vercel.app">
