@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartik Barade
 
-### 🤖 AI/ML Student | 💻 Software Developer | 🌐 Full Stack Developer
+### 🤖 AI/ML Engineer | 💻 Software Developer | 🌐 Full Stack Developer
 
 <p align="center">
   <a href="https://kartikbarade.vercel.app">
@@ -125,62 +125,24 @@ https://kartikbarade.vercel.app
 
 ---
 
-# 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/kartikbarade">
-    <img src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&ring_color=58A6FF" width="48%" />
-  </a>
-  <a href="https://github.com/kartikbarade">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbarade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Journey
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbarade&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Kartik%20Barade%20-%20GitHub%20Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbarade&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikbarade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="70%" />
-</p>
-
----
-
-<p align="center">
-  <b>💻 Code • 🚀 Build • 📚 Learn • 🔥 Repeat</b>
-</p>
-
-<p align="center">
-  <i>Building consistently, one commit at a time.</i>
-</p>
 ---
 
 ## 📫 Connect With Me
