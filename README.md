@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>🤖 AI/ML Engineer &nbsp;•&nbsp; 💻 Software Developer &nbsp;•&nbsp; 🌐 Full Stack Developer</b>
+  <b>🤖 AI/ML Student &nbsp;•&nbsp; 💻 Software Developer &nbsp;•&nbsp; 🌐 Full Stack Developer</b>
 </p>
 
 <p align="center">
