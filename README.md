@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kartik Barade
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Software+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Ideas+Into+Real+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Student;Software+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Ideas+Into+Real+Projects" />
 </p>
 
 <p align="center">
