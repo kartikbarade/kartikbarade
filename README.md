@@ -295,17 +295,6 @@ Computer vision project that allows users to control system volume using hand ge
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbarade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    width="48%"
-  />
-</p>
-
----
-
 # 📊 GitHub Contribution Activity
 
 <p align="center">
